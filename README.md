@@ -1,24 +1,35 @@
-# 💫 About Me:
-Hi there! My name is Manish Tiwari, and I am a cyber security specialist and CTF (Capture The Flag) player.<br><br>As a cyber security specialist, I am proficient in identifying and mitigating security threats to computer systems, networks, and websites. This includes tasks such as conducting security assessments, implementing security measures, and responding to security incidents.<br><br>As a CTF player, I participate in online competitions where participants are challenged to solve a series of technical and logical problems in order to "capture the flag" (usually a string of text or a file). These competitions are a great way for me to stay up-to-date on the latest security trends and techniques, and to hone my skills in a fun and challenging environment.<br><br>I am very active in the cyber security community, and am always looking for new opportunities to learn and contribute. If you have any questions about cyber security or CTFs, feel free to ask!
+# Manish Tiwari
 
+Security engineer working across offensive tooling, threat intelligence, and ML security research. I build systems that find, detect, or study how things break — from red-team payload generation to fraud-detection pipelines to adversarial robustness benchmarks for intrusion detection.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yfw_maniish) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Manish Tiwari](https://www.linkedin.com/in/manish-tiwari-b74905239/)) 
-
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yfwmaniish&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yfwmaniish&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yfwmaniish&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+**Contact:** [LinkedIn](https://www.linkedin.com/in/manish-tiwarisec/) · manishtiwari5398@gmail.com
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yfwmaniish&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I work on
+
+**Offensive security & red-team tooling**
+- [Akitty](https://github.com/yfwmaniish/Akitty) — ESP32/ESP8266 HID injection ecosystem: a DuckyScript-to-Arduino payload studio with an AI copilot, built with Team HYDRA for authorized penetration testing and HID-trust research.
+- [S3X-Security-Suite-X](https://github.com/yfwmaniish/S3X-Security-Suite-X) — a Python security scanner covering S3 bucket exposure, open FTP, exposed dev endpoints, JWT analysis, Shodan/VirusTotal/HIBP integration, subdomain enumeration, and port scanning with HTML/PDF reporting.
+- [aegis-sandbox](https://github.com/yfwmaniish/aegis-sandbox) — a multi-OS malware analysis platform combining static/dynamic analysis with LLM-assisted behavioral understanding.
+
+**Threat intelligence & incident response**
+- [hydra](https://github.com/yfwmaniish/hydra) / [Trinetra-3.0-Backend](https://github.com/yfwmaniish/Trinetra-3.0-Backend) — threat-intelligence platforms that scrape Reddit, Pastebin, RSS, and forums for leaked credentials and attack-planning chatter, score severity, and push live alerts over WebSocket.
+- [Sentinel-05](https://github.com/yfwmaniish/Sentinel-05) — an AI-assisted incident analysis pipeline: extracts IoCs from raw logs, cross-checks threat intel, maps findings to MITRE ATT&CK, and generates detection/remediation artifacts with cross-session campaign memory.
+- [mulewatch](https://github.com/yfwmaniish/mulewatch) — mule-account detection for financial fraud, built for a PSB IIT Hyderabad submission: calibrated LightGBM scoring, leakage-audited feature engineering, and an analyst console.
+
+**ML security research**
+- [adversim-ids](https://github.com/yfwmaniish/adversim-ids) — a constraint-aware adversarial robustness benchmark for ML-based network intrusion detection, sweeping attacker feature-control across NSL-KDD/CICIDS2017 against FGSM, PGD, JSMA, ZOO, NES, PPO, and DQN. Written up as a full paper with a step-by-step reproduction guide.
+
+**Other**
+- [CrimeGPT](https://github.com/yfwmaniish/CrimeGPT) — investigation case-management with AI-assisted section suggestion and judgment retrieval.
+- [codebase-time-machine](https://github.com/yfwmaniish/codebase-time-machine) — clones a repo, parses its full commit history into Postgres/pgvector, and answers "why" questions about the code via RAG chat with commit citations.
+- [agenttrace](https://github.com/yfwmaniish/agenttrace) — tamper-evident, cryptographically signed audit trails for AI agent actions (hash chains, Ed25519 signatures, Merkle trees).
+
+---
+
+## Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yfwmaniish&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
